@@ -1,4 +1,4 @@
-extensions:
+﻿extensions:
 - keyString: "m"
 filenames: []
 comments: []
@@ -13,7 +13,7 @@ outlineMenu:
 - beginString: "^([\\t ]*)properties(?:[\\t ]+(\\(.+\\)))?"
   keyString: "$1properties $2"
 metadata:
-  distributionURL: "https://github.com/1024jp/Matlab-coteditor"
+  distributionURL: "https://github.com/1024jp/MATLAB-coteditor"
   lastModified: "2014-11-16"
   author: "1024jp"
   license: "MIT License"

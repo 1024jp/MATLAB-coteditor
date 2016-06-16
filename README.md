@@ -2,7 +2,7 @@
 MATLAB syntax style for CotEditor
 =========================================
 
-__This repository is no more maintained since this MATLAB style is now bundled in official ÇotEditor.app.__
+__This repository is no more maintained since this MATLAB style is now bundled in official CotEditor.app.__
 
 [CotEditor][]'s syntax style file for Matlab.
 
